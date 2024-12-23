@@ -70,7 +70,7 @@ Currently, I’m exploring **MLOps pipelines**, **data versioning** with **DVC**
 
 ### 📫 Let's Connect!
 - **LinkedIn:** [gabrielsanchez](www.linkedin.com/in/gsanchez-tech)  
-- **Email:** gs604895@gmail.com  
+- **Email:** Gabriel.SF_RoboticsEngineeringMX@outlook.com
 
 ---
 
